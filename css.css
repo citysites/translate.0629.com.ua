@@ -1,0 +1,172 @@
+a {font-family3: arial, verdana, tahoma, verdana, arial; font-weight: regular; color: #004DA3; text-decoration: underline;}
+a:hover {font-family: arial, verdana, tahoma, verdana, arial; color: #004DA3; font-weight: regular; text-decoration: none;}
+td {font-family: arial, verdana, tahoma, verdana, arial; color: #000000; font-weight: regular; font-size: 80%; line-height: 1.5;}
+
+
+A.small {font-family: verdana, arial; font-weight: regular; color: #ffffff; font-size: 11px; text-decoration: none;}
+A.small:link {font-family: verdana, tahoma, verdana, arial; font-weight: regular; color: #ffffff; font-size: 11px; text-decoration: underline;}
+A.small:visited {font-family: verdana, tahoma, verdana, arial; font-weight: regular; color: #ffffff; font-size: 11px; text-decoration: underline;}
+A.small:hover {font-family: verdana, tahoma, verdana, arial; font-weight: regular; color: #ffffff; font-size: 11px; text-decoration: none;}
+
+
+A.down {font-family: verdana, arial; font-weight: regular; color: #999999; font-size: 10px; text-decoration: none;}
+A.down:link {font-family: verdana, tahoma, verdana, arial; font-weight: regular; color: #444444; font-size: 11px; text-decoration: underline;}
+A.down:visited {font-family: verdana, tahoma, verdana, arial; font-weight: regular; color: #444444; font-size: 11px; text-decoration: underline;}
+A.down:hover {font-family: verdana, tahoma, verdana, arial; font-weight: regular; color: #444444; font-size: 11px; text-decoration: none;}
+
+.unnamed2 {
+        color: #000000;
+        background-color: #990000;
+        height=15px
+ }
+
+.unnamed3 {
+        color: #ffffff;
+        background-color: #130E25;
+        height=15px
+        width=110%
+        font-size: 10px;
+ }
+
+
+
+
+TABLE.redtable {
+        BORDER-RIGHT: #BC0F0B 1px solid; BORDER-TOP: #BC0F0B 1px solid; BORDER-LEFT: #BC0F0B 1px solid; BORDER-BOTTOM: #BC0F0B 1px solid; valign="top"  
+}
+TABLE.redtable TD {
+        PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px;  PADDING-TOP: 0px;
+}
+
+
+TABLE.phototab2 {
+        BORDER-RIGHT: #231E32 3px solid; BORDER-TOP: #231E32 3px solid; BORDER-LEFT: #231E32 3px solid; BORDER-BOTTOM: #231E32 3px solid; BACKGROUND-COLOR: #ffffff
+}
+
+
+TD.tdgrey {
+        BORDER-RIGHT: #E0DAD1 1px solid; BORDER-TOP: #E0DAD1 1px solid; BORDER-LEFT: #E0DAD1 1px solid; BORDER-BOTTOM: #E0DAD1 1px solid; valign="top"  BACKGROUND-COLOR: #ffffff
+}
+
+
+.line {
+		line-height: 1.7;
+	}
+
+
+TD.full-text {
+                		line-height: 1.7;
+	}
+
+.small2 {font-size: 12px;  }
+
+.greysmall {font-size: 11px; color: #999999; font-family: arial, verdana, tahoma, verdana, arial;  }
+
+
+.small33 {font-family: tahoma, verdana, arial; font-weight: regular; color: #FFFFFF; font-size: 11px;}
+
+.small3 {font-size: 9px;}
+
+
+.red {font-size: 11px; color: #C21118; }
+
+
+
+.h0 {font-family: tahoma, verdana, arial; font-size: 25px; color: #333333; font-weight: regular; }
+
+
+.h1 {font-size: 26px; color: #ffffff; font-weight: regular; }
+
+.h2 {font-size: 21px; }
+
+.h21 {font-size: 16px; color: #000000; font-weight: bold; }
+
+.h3 {font-size: 13px; color: #222222; font-weight: bold; }
+
+.h2red {font-size: 12px; color: #C21118; font-weight: bold; }
+
+
+.cat1 {font-size: 13px; font-weight: bold; color: #EA7C0C;}
+
+.cat2 {font-size: 11px; font-weight: bold; }
+
+.cat3 {font-size: 9px; font-weight: regular; }
+
+.color {color: #A60108; font-weight: bold; }
+
+white {color: #FFFFFF;}
+
+
+.buttons {
+
+background-color: white;
+font-size:9px;
+font-weight: regular;
+color:#656277;
+
+
+
+}
+
+.clients {background-image: url("/web/20140714052746im_/http://translate.0629.com.ua/images/clients_1.jpg"); background-repeat: no-repeat;}
+.portfolio {background-image: url("/web/20140714052746im_/http://translate.0629.com.ua/images/portfolio_1.jpg"); background-repeat: no-repeat;}
+.contacts {background-image: url("/web/20140714052746im_/http://translate.0629.com.ua/images/contacts_1.jpg"); background-repeat: no-repeat;}
+.about {background-image: url("/web/20140714052746im_/http://translate.0629.com.ua/images/about_1.jpg"); background-repeat: no-repeat;}
+.services {background-image: url("/web/20140714052746im_/http://translate.0629.com.ua/images/services_1.jpg"); background-repeat: no-repeat;}
+
+
+
+
+A.menu  {font-family: verdana, tahoma, verdana, arial;  font-weight: bold; color: #414649; font-size: 11px; text-decoration: none;}
+A.menu:link {font-family: verdana, tahoma, verdana, arial;  font-weight: bold; color: #414649; text-decoration: none;}
+A.menu:visited {font-family: verdana, tahoma, verdana, arial; font-weight: bold; color: #414649; text-decoration: none;}
+A.menu:hover {font-family: verdana, tahoma, verdana, arial; font-weight: bold; color: #EA9A18; text-decoration: none;}
+
+
+A.menu2  {font-weight: bold; color: #000000; font-size: 11px; text-decoration: none;}
+A.menu2:link {font-weight: bold; color: #000000; text-decoration: none;}
+A.menu2:visited {font-weight: bold; color: #000000; text-decoration: none;}
+A.menu2:hover {font-weight: bold; color: #000000; text-decoration: none;}
+
+A.menu3  {font-weight: bold; color: #ffffff; font-size: 11px; text-decoration: none;}
+A.menu3:link {font-weight: bold; color: #ffffff; text-decoration: none;}
+A.menu3:visited {font-weight: bold; color: #ffffff; text-decoration: none;}
+A.menu3:hover {font-weight: bold; color: #ffffff; text-decoration: underline;}
+
+TABLE.privatepage_person {
+        BORDER-RIGHT: #E7E2DA 1px solid; BORDER-TOP: #E7E2DA 1px solid; BORDER-LEFT: #E7E2DA 1px solid; BORDER-BOTTOM: #E7E2DA 1px solid;  BACKGROUND-COLOR: #f8f7f5
+}
+TABLE.privatepage_person TD {
+        PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 4px; VERTICAL-ALIGN: top; PADDING-TOP: 4px;
+}
+.calendarl
+{
+font-size: 11px;
+        FONT: regular 10px Arial, Helvetica, text-decoration:none; BORDER-LEFT: #f1f1f1 1px solid; WIDTH: 25px; BORDER-BOTTOM: #f1f1f1 1px solid
+}
+A.calendarl:hover {
+font-size: 11px;
+        FONT: regular 10px Arial, Helvetica, WIDTH: 25px; COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; TEXT-DECORATION: none
+}
+
+/*
+     FILE ARCHIVED ON 05:27:46 Jul 14, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:37:47 Sep 11, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 763.317 (3)
+  exclusion.robots.policy: 0.138
+  RedisCDXSource: 2.169
+  PetaboxLoader3.datanode: 869.691 (5)
+  PetaboxLoader3.resolve: 189.568 (2)
+  exclusion.robots: 0.15
+  esindex: 0.008
+  load_resource: 355.324
+  CDXLines.iter: 11.267 (3)
+  captures_list: 779.442
+*/
